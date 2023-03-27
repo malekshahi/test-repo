@@ -1,4 +1,4 @@
 # Test
 
 
-This is my first file in Git
+This is my first file in Git.
